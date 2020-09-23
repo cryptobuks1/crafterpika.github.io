@@ -59,3 +59,4 @@ CrackTool3
 ZeniTevi++
 LightiningSign
 GBox
+BoarSign
