@@ -59,3 +59,4 @@ LightiningSign
 GBox
 BoarSign
 Deezer++
+MAME4iOS
