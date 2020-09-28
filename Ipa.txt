@@ -60,3 +60,4 @@ GBox
 BoarSign
 Deezer++
 MAME4iOS
+PlenixClash
