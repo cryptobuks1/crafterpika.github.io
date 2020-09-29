@@ -25,7 +25,7 @@ CDCloud++
 All4++
 TikTok_Unicorn
 Twitch++
-Reddit++
+Reddit_Lizard
 FlappyBird_v2
 h3lix
 doubleh3lix
