@@ -63,3 +63,4 @@ MAME4iOS
 PlenixClash
 YouTube_Bat
 Instagram_Rhino
+Fortnite
