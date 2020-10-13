@@ -5,7 +5,7 @@ Pixel_Pokemon
 PlenixClash
 AmongUS_hack
 iPoGo
-iSSB
+HungrySharkWorld_DLG
 
 ====Tweaked Apps====
 Spotify++
@@ -69,6 +69,7 @@ iSH_RW
 FlappyBird_v1
 FlappyBird_v2
 Fortnite
+iSSB
 
 ====Utillities====
 EveryCord
