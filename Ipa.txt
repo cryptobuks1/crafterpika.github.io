@@ -32,6 +32,7 @@ AppCake++2
 SpotUlt
 YouTube_Bat
 Instagram_Rhino
+Airbrush_iOSGods
 
 ====Emulators====
 iNDS
