@@ -1,9 +1,9 @@
 <script>
     var url = decodeURIComponent(document.location.href)
     if (url.indexOf("?") > -1){
-      if(url.startsWith("https://crafterpika.tk/ad-hoc.html?itms-services://?action")){
+      if(url.startsWith("https://crafterpika.tk/ad-hoc.html?url=")){
         params = url.split('?')
-        if(params[1] == "itms-services://?action"){
+        if(params[1] == "itms-services://?action=download-manifest&url="){
         params.shift();
         window.location.href = params.join("?").toString();
         }
