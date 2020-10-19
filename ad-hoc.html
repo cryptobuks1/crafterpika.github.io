@@ -3,9 +3,9 @@ window.onload = function() {
   		try {
   			var url_string = (window.location.href).toLowerCase();
   			var url = new URL(url_string);
-        var url_link = url.searchParams.get("url");
-        console.log("itms-services://?action=download-manifest&url="+url_link);
-        window.location.href = "itms-services://?action=download-manifest&url="+url_link
+  			var url_link = url.searchParams.get("url");
+  			console.log("itms-services://?action=download-manifest&url="+url_link);
+  			window.location.href = "itms-services://?action=download-manifest&url="+url_link
   		} catch (err) {
   			console.log("Issues with Parsing URL Parameter's - " + err);
   		}
