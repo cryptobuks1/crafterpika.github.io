@@ -2,10 +2,10 @@
     var url = decodeURIComponent(document.location.href)
     if (url.indexOf("?") > -1){
       if(url.startsWith("https://crafterpika.tk/ad-hoc.html?url=")){
-        params = url.split('?')
+        params = url.split('url')
         if(params[1] == "itms-services://?action=download-manifest&url="){
         params.shift();
-        window.location.href = params.join("?").toString();
+        window.location.href = params.join("url").toString();
         }
       }
       }
