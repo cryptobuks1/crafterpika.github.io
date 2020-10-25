@@ -33,6 +33,7 @@ SpotUlt
 YouTube_Bat
 Instagram_Rhino
 Airbrush_iOSGods
+YTAdBlock
 
 ====Emulators====
 iNDS
