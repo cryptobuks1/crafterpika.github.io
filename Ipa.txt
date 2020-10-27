@@ -3,7 +3,6 @@ PlankAmongUS
 SubwaySurfer++
 Pixel_Pokemon
 PlenixClash
-AmongUS_hack
 iPoGo
 HungrySharkWorld_DLG
 
