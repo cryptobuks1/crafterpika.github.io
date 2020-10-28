@@ -1,5 +1,6 @@
 ====Hacked Games====
 PlankAmongUS
+AmongUS++
 SubwaySurfer++
 Pixel_Pokemon
 PlenixClash
