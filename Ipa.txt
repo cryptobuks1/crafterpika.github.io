@@ -92,7 +92,7 @@ BoarSign
 ====Torrent Clients====
 iTorrent
 
-==== Certificates (use them with =zsign) ====
+==== Certificates ====
 
 == SIGNED ==
 Fujian
