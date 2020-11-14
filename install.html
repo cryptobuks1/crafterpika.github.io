@@ -3,9 +3,9 @@ window.onload = function() {
   		try {
   			var url_string = (window.location.href).toLowerCase();
   			var url = new URL(url_string);
-  			var url_link = url.searchParams.get("url");
-  			console.log("itms-services://?action=download-manifest&url="+url_link);
-  			window.location.href = "itms-services://?action=download-manifest&url=https://www3.dlpika.ml/plist/"+url_link
+  			var plist1 = url.searchParams.get("plist");
+  			console.log("itms-services://?action=download-manifest&url="+plist1);
+  			window.location.href = "itms-services://?action=download-manifest&url=https://www3.dlpika.ml/plist/"+plist1
   		} catch (err) {
   			console.log("Issues with Parsing URL Parameter's - " + err);
   		}
