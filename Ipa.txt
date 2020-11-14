@@ -1,4 +1,4 @@
-====Hacked Games====
+==== Hacked Games ====
 PlankAmongUS
 AmongUS++
 SubwaySurfer++
@@ -7,7 +7,7 @@ PlenixClash
 iPoGo
 HungrySharkWorld_DLG
 
-====Tweaked Apps====
+==== Tweaked Apps ====
 Spotify++
 Twitter_Owl
 insta_rocket
@@ -35,7 +35,7 @@ Instagram_Rhino
 Airbrush_iOSGods
 YTAdBlock
 
-====Emulators====
+==== Emulators ====
 iNDS
 Delta
 RetroArch
@@ -52,7 +52,7 @@ DiOS_Patreon
 MAME4iOS
 iSH
 
-====Jailbreaks===
+==== Jailbreaks ====
 Odyssey
 unc0ver
 Chimera
@@ -71,25 +71,25 @@ HomeDepot
 FilzaEscaped13
 iSH_RW
 
-====Games====
+==== Games ====
 FlappyBird_v1
 FlappyBird_v2
 Fortnite
 iSSB
 
-====Utillities====
+==== Utillities ====
 EveryCord
 CrackTool3
 BatteryLife
 FileBrowser
 
-====Signing Ullity====
+==== Signing Ullity ====
 ESign
 LightiningSign
 GBox
 BoarSign
 
-====Torrent Clients====
+==== Torrent Clients ====
 iTorrent
 
 ==== Certificates ====
