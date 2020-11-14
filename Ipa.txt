@@ -109,4 +109,3 @@ ChengduBlue
 SuzhouLin
 Shanghai
 Jinhua
-Fujian
