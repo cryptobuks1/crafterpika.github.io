@@ -93,6 +93,11 @@ BoarSign
 iTorrent
 
 ==== Certificates (use them with =zsign) ====
+
+== SIGNED ==
+Fujian
+
+== REVOKED ==
 Toyola
 Qingdao
 CB
