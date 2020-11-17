@@ -95,6 +95,8 @@ iTorrent
 ====Certificates====
 
 ==SIGNED==
+
+==REVOKED (DNSCloak)==
 Fujian
 
 ==REVOKED==
