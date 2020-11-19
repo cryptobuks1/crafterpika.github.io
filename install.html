@@ -1,13 +1,29 @@
-<script type="text/javascript">
-window.onload = function() {
-  		try {
-  			var url_string = (window.location.href).toLowerCase();
-  			var url = new URL(url_string);
-  			var sign_id = url.searchParams.get("id");
-  			console.log("itms-services://?action=download-manifest&url=https://www3.dlpika.ml/plist/"+sign_id+".plist");
-  			window.location.href = "itms-services://?action=download-manifest&url=https://www3.dlpika.ml/plist/"+sign_id+".plist"
-  		} catch (err) {
-  			console.log("Issues with Parsing URL Parameter's - " + err);
-  		}
-}
-</script>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Install App</title>
+  <script type="text/javascript">
+  window.onload = function() {
+  		  try {
+  			  var url_string = (window.location.href).toLowerCase();
+  			  var url = new URL(url_string);
+  			  var sign_id = url.searchParams.get("id");
+  			  console.log("itms-services://?action=download-manifest&url=https://www3.dlpika.ml/plist/"+sign_id+".plist");
+  			  window.location.href = "itms-services://?action=download-manifest&url=https://www3.dlpika.ml/plist/"+sign_id+".plist"
+  		  } catch (err) {
+  			  console.log("Issues with Parsing URL Parameter's - " + err);
+  		  }
+  }
+  </script>
+  <style>
+    body {
+      font-family: Arial;
+    }
+  </style>
+</head>
+<body>
+  <center>
+    <p>The Install pop up may take a second to show up...</p>
+  </center>
+</body>
+</html>
